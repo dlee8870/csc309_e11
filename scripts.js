@@ -1,5 +1,5 @@
 function getBaseUrl() {
-    return 'https://vercel.com/dlee8870s-projects/csc309-e11/2fNJEc8o1HWYnfET2T2zsw11kyKm'; // Use your Vercel app URL
+    return 'https://csc309-e11-git-main-dlee8870s-projects.vercel.app'; // Use your Vercel app URL
 }
 
 function getUTorId() {
