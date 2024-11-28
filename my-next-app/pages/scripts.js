@@ -1,5 +1,5 @@
 function getBaseUrl() {
-    return 'csc309-e11-59kh-gedahj7qu-dlee8870s-projects.vercel.app'; // Replace with your Vercel app URL
+    return 'https://csc309-e11-59kh-gedahj7qu-dlee8870s-projects.vercel.app'; // Replace with your Vercel app URL
   }
   
   function getUTorId() {

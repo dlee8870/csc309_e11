@@ -5,4 +5,4 @@ export default function handler(req, res) {
         and deploy it!
       </div>
     `);
-  }
+}
